@@ -32,7 +32,37 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 
-
+    <!DOCTYPE html>
+    <html lang="en">
+    
+    <head>
+      <title>Book Cover</title>  
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+      <link rel="stylesheet" href="styles.css" />  
+    </head>
+    
+    <body>
+      <div class="container">
+        <div class="header">
+          <label>EXPERT INSIGHT</label>
+        </div>
+        <div class="title">
+          <label>Responsive Web Design with HTML5 and CSS</label>
+        </div>
+        <div class="description">
+          <label>Develop future-proof responsive websites using the latest HTML5 and CSS techniques</label>
+        </div>
+        <div class="edition">
+          <label>Third Edition</label>
+        </div>
+        <div class="author">
+          <img src="images/author.jpg" />
+          <label>Dheebash Sai Ramesh</label>      
+        </div>
+      </div>
+    </body>
+    
+    </html>
 
 ## OUTPUT:
 Output/bookcover.png
