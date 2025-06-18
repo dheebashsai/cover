@@ -71,7 +71,7 @@ Publish the website in the LocalHost.
 	background-color: #f0f0f0;
 	color: #333;
 	line-height: 1.6;
-}
+	}
 
     .container {
     	position:relative;
